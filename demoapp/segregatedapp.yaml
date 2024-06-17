@@ -24,5 +24,4 @@ spec:
             memory: "64Mi"
             cpu: "200m"
       nodeSelector:
-        key: type
-        value: segregated
+        type: segregated
