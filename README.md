@@ -46,7 +46,6 @@ Cleaning up. If you don't want to keep your cluster after the labs, use the comm
 eksctl delete cluster --region=us-east-2 --name=eks-lab-cast
 ```
 
-Be sure to swap out `${package.json.version}` with the actual
 
 ## Azure
 #### Pre Requisites
